@@ -11,8 +11,6 @@ on:
         options:
           - Build OnePlus_SukiSU Ultra All
           - CAll Build Start UP
-          - Build TEST
-          - Build TEST2
       count:
         description: '最多访问的运行次数'
         required: false
